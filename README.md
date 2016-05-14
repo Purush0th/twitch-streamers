@@ -9,7 +9,7 @@ This application demonstrates Twitch users status using Twitch v3 API.
 
 ### View streamers status
 <br/>
-![App index page](docs/twitch-index.png)
+![App index page](docs/twitch-index.PNG)
 <br/>
 
 ### Responsive check
