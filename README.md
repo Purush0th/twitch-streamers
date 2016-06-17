@@ -22,7 +22,7 @@ This application demonstrates Twitch users status using Twitch v3 API.
 You can install http-server globally:
 
 ```
-npm install -g http-serve
+npm install -g serve
 ```
 
 Then you can start your own development web server to serve static files from a folder by running:
